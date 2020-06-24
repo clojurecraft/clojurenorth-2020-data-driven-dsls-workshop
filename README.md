@@ -15,15 +15,28 @@ In the first hour, we will do a brief explanation of data-driven APIs, and then 
  - participants submit their solutions for critique
  - review and discussion of solutions
 
-## The Katas
 
- 0. [Maybe something here]()
+## Your Design Task
 
- 1. [Designing a data-driven DSL based on an existing declarative DSL](/docs/data-driven-by-porting.md)
+1. Choose one of the problem domains from [this list](./problem-domains.md).
 
- 2. [Designing a data-driven DSL from scratch](/docs/data-driven-from-scratch.md)
+   We recommend choosing a problem domain that you are at least somewhat familiar with (to better understand how your syntax might be used in practice).
+
+   If you've thought of other problem domain that you'd like to design a data-driven API for, go ahead!
 
 
-After you're done with any of the exercises, if you'd like to have them potentially discussed in Part 2 of the workshop, add a link to [the spreadsheet](https://docs.google.com/spreadsheets/d/1F7TGID104-ayVhOT47RV3fCLHpvAaeOGZScIKdvG9-8/edit?usp=sharing).
+2. Design a data-driven DSL for that problem domain.
+
+   give some examples of how you would use it.
+
+   see [the template](./template.md)
+
+   The task is *not* to implement the system, it is just to design the data-driven API.
+
+   You do not have to implement the entire language, just use the existing language as inspiration.
+
+3. Reflect using [these questions](./evaluating-notations.md)
+
+4. After you're done with your design(s), if you'd like to have them potentially discussed in Part 2 of the workshop, add a link to [the spreadsheet](https://docs.google.com/spreadsheets/d/1F7TGID104-ayVhOT47RV3fCLHpvAaeOGZScIKdvG9-8/edit?usp=sharing).
 
 
