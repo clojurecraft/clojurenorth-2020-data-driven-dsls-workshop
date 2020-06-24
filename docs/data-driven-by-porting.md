@@ -32,7 +32,7 @@ If you have some other problem domain you'd like to design a data-driven API for
 
 Gherkin is a language used for writing BDD test cases.
 
-Resrouces
+Resources
 - [Gherkin on Wikpedia](https://en.wikipedia.org/wiki/Cucumber_(software)#Gherkin_language)
 - [Gherkin Docs](https://cucumber.io/docs/gherkin/reference/)
 
@@ -61,7 +61,7 @@ Rake is a language used to describe tasks and dependencies in the context of sof
 define tasks, with optional multiple dependencies
 
 Resources
-- [Rake on Wikpedia](https://en.wikipedia.org/wiki/Rake_(software))
+- [Rake on Wikipedia](https://en.wikipedia.org/wiki/Rake_(software))
 - [Martin Fowler's Intro to Rake](https://martinfowler.com/articles/rake.html)
 
 
@@ -81,4 +81,3 @@ Perhaps, it'd be possible to create a similar language for transforming EDN docu
 
 Resources
  - (XSLT on Wikipedia)[https://en.wikipedia.org/wiki/XSLT]
-
