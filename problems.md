@@ -30,7 +30,7 @@ In some applications, the access-control is more nuanced: different users might 
 
 End-to-end tests are incredibly valuable at avoiding regressions in web applications, but, they're often tedious to write and maintain.
 
-Existing APIs such as [Selenium](https://en.wikipedia.org/wiki/Selenium_(software)), [Puppeteer](https://developers.google.com/web/tools/puppeteer) and [Capybara](https://github.com/teamcapybara/capybara) are "fluent DSLs", giving you the full power of your programming language. But, since 90% of E2E tests consist of similar actions (visit url, click button 'x', check for value 'y', etc.), perhaps a data-driven syntax could be useful?
+Existing APIs such as [Selenium](https://en.wikipedia.org/wiki/Selenium_(software)), [Puppeteer](https://developers.google.com/web/tools/puppeteer), and [Capybara](https://github.com/teamcapybara/capybara) are "fluent DSLs", giving you the full power of your programming language. But, since 90% of E2E tests consist of similar actions (visit url, click button 'x', check for value 'y', etc.), perhaps a data-driven syntax could be useful?
 
 
 ## BDD Testing (Gherkin)
@@ -112,7 +112,7 @@ Resources
 
 Modelica is a language used to model complex systems, such as the electrical and mechanical subsystems of a car. Modelica lets you define components (such as a "resistor") with input and output "pins", define equations that related the various inputs and outs (ex. `V = IR`), and then hook up and simulate a network of components. It can also be used to model System Dynamics.
 
-Perhaps by choosing a specific subdomain (ex. electrical circuits, or [system dynamics](https://en.wikipedia.org/wiki/System_dynamics)) it can reduce the scope of your design.
+Perhaps by choosing a specific subdomain (ex. electrical circuits or [system dynamics](https://en.wikipedia.org/wiki/System_dynamics)), you can reduce the scope of your design.
 
 Resources
   - [Modelica by Example (Book)](https://book.xogeny.com/)
@@ -136,7 +136,7 @@ Clojure's existing syntax allows for writing functions to convert inputs -> outp
 How could we represent mathematical formulae in Clojure to allow for easy human and programmatic generation and manipulation, to perhaps be used...
   - within a symbolic manipulation system (as in [Maple](https://en.wikipedia.org/wiki/Maple_(software)), [Mathematica](https://en.wikipedia.org/wiki/Wolfram_Mathematica), or [SageMath](https://en.wikipedia.org/wiki/SageMath))
   - within a simulation systems (like [Modelica](https://en.wikipedia.org/wiki/Modelica))
-  - to convert to other formats (ex. [latex](https://en.wikipedia.org/wiki/TeX#Mathematical_example))
+  - to convert to other formats (ex. [LaTeX](https://en.wikipedia.org/wiki/TeX#Mathematical_example))
 
 
 ## Chemical Formulas
@@ -159,4 +159,3 @@ Resources
  - [ABC Notation](https://en.wikipedia.org/wiki/ABC_notation)
  - [LilyPond](https://en.wikipedia.org/wiki/LilyPond)
  - [MusicXML](https://en.wikipedia.org/wiki/MusicXML)
-
