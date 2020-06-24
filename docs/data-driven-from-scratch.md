@@ -24,7 +24,7 @@ Representing ACL rules on certain fields (to then be used to ‘filter’ data s
 
 ### End-to-End Testing
 
-declerative format to run E2E tests
+declarative format to run E2E tests
 
 can do so w/ full support of language
 but, since the domain is pretty limited (visit url, click button 'x', check for value 'y', etc.), could a data-driven syntax work?
@@ -79,7 +79,7 @@ https://en.wikipedia.org/wiki/International_Chemical_Identifier
 
 ### Chemical Structural Formulas
 
-Representing the molecular structure of a complex compoound, for the purpose of then generating a diagram (one or more of: skeletal diagram, lewis dot diagram, etc.)
+Representing the molecular structure of a complex compound, for the purpose of then generating a diagram (one or more of: skeletal diagram, Lewis dot diagram, etc.)
 
 https://en.wikipedia.org/wiki/Structural_formula
 
@@ -95,18 +95,3 @@ http://www.xml-cml.org/documentation/index.html
 
 https://en.wikipedia.org/wiki/Portable_Game_Notation
 https://en.wikipedia.org/wiki/Smart_Game_Format
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
