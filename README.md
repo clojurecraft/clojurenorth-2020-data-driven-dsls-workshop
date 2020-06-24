@@ -35,6 +35,8 @@ In the first hour, we will do a brief explanation of data-driven APIs, and then 
 
    Many of the suggested problems already have some existing declarative languages (which isn't data-driven), but, many of these languages are quite general and complex (and maybe even turing-complete) -- your design does *not* need to match them 1:1 in features, feel free to focus on a subset of functionality or just use the existing languages as inspiration/"prior art".
 
+   Your solution doesn't have to be 100% "data-driven": there may certainly be parts of your design where allowing for arbitrary code is the best solution.
+
    We recommend you start your design work by choosing a few specific sample use-cases to design for.
 
    The end goal is to come up with a mock README for your library, featuring an explanation of what it does and examples of how to use it. See [the template](./template.md)
