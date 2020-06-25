@@ -1,5 +1,6 @@
 # Further Resources
 
+- [WIP Table of DSLs](https://docs.google.com/spreadsheets/d/13Ikukos3Kj0fXqu3z2bwImG_3e7SPVmXAT5UQ1TQ-yo/edit?usp=sharing)
 - Martin Fowler on: [DSLs](https://www.martinfowler.com/bliki/DomainSpecificLanguage.html), [DSL Boundaries](https://www.martinfowler.com/bliki/DslBoundary.html), [Fluent Interfaces](https://www.martinfowler.com/bliki/FluentInterface.html)
 - [Discussion re: Data-Oriented vs Data-Driven](https://clojureverse.org/t/clojure-a-pragmatic-data-driven-language/4565)
 - [Transparency through Data](https://www.youtube.com/watch?v=zznwKCifC1A)
