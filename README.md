@@ -41,6 +41,6 @@ In the first hour, we will do a brief explanation of data-driven APIs, and then 
 
    The end goal is to come up with a mock README for your library, featuring an explanation of what it does and examples of how to use it. See [the template](./template.md)
 
-4. After you are done your design (or time is running out), take a moment to reflect on your design using [these questions](./evaluating-notations.md). Perhaps add some notes to you README if you find some of these questions make you identify something particularly good or bad about your design.
+4. After you are done your design (or time is running out), take a moment to reflect on your design using [the questions from before](./evaluating-notations.md). Perhaps add some notes to your README if some of these questions helped you identify something particularly good or bad about your design.
 
 5. If you'd like to have your design potentially discussed in Part 2 of the workshop, push your README to GitHub and add a link to [the spreadsheet](https://docs.google.com/spreadsheets/d/1F7TGID104-ayVhOT47RV3fCLHpvAaeOGZScIKdvG9-8/edit?usp=sharing).
